@@ -1,0 +1,13 @@
+logdecorator-2.4.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+logdecorator-2.4.dist-info/LICENSE,sha256=DuAaWLpeN0ANdMCxL_PG03noBnjscIO-SWWdVz3LYiM,1063
+logdecorator-2.4.dist-info/METADATA,sha256=2mxY2nt4bjhLltFeSELma_lcV_sHgGqGNkcs1nxYXig,12497
+logdecorator-2.4.dist-info/RECORD,,
+logdecorator-2.4.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+logdecorator-2.4.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+logdecorator-2.4.dist-info/top_level.txt,sha256=s3sTOgykVk0c6Xswe1dK3_SSCIX01Hm5o1GECEcOmQ4,13
+logdecorator/__init__.py,sha256=OJDmP_t7qHue6VjysfF7kJMUW0fFOTZsJbNjVAtrbII,152
+logdecorator/__pycache__/__init__.cpython-39.pyc,,
+logdecorator/__pycache__/asyncio.cpython-39.pyc,,
+logdecorator/__pycache__/decorator.cpython-39.pyc,,
+logdecorator/asyncio.py,sha256=FzfjNv0uthLezswvQb92a6CSvrq97X1Ua5PE-cLxCks,1651
+logdecorator/decorator.py,sha256=0GuCDCr18GXoMcMsDvOTVKUxEp40TweqZyUF_0B0iI4,6606

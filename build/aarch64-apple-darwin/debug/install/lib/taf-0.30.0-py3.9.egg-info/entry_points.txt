@@ -1,0 +1,3 @@
+[console_scripts]
+olc = taf.tools.cli.olc:main
+taf = taf.tools.cli.taf:main
